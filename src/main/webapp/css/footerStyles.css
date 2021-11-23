@@ -1,0 +1,142 @@
+   
+/*footer*/
+.footer {
+   position: relative;
+ 
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:#ccc;
+   color:black;
+   text-align: center;
+}
+
+/* Style the footer */
+
+/*All elements in footer*/
+.site-footer
+{
+  background-image: linear-gradient(to top, #22018c , #01738c);
+  background-colo:#1e0275;
+  padding:10px 20px;
+  font-size:15px;
+  line-height:16px;
+  color:#b0acac;
+}
+
+.footertwo {
+  padding: 1px;
+};
+
+.site-footer hr
+{
+  border-top-color:#bbb;
+  opacity:0.5
+}
+.site-footer hr.small
+{
+  margin:20px 0
+}
+
+/*footer menu titles*/
+.site-footer h6
+{
+ 
+  color:#fff;
+  font-size:16px;
+  font-family: cabin condensed,sans-serif;
+  text-transform:uppercase;
+  margin-top:5px;
+  letter-spacing:2px;
+}
+
+/*footer menu links*/
+.site-footer a
+{
+  color:#b0acac;
+}
+
+.site-footer a:hover
+{
+  color:#59d1f0;
+}
+
+
+/*footer menu list items styles*/
+.footer-links
+{
+  padding-left:0;
+  list-style:none
+}
+
+
+/*footer menu list item's words styles*/
+li a{
+	font-family: cabin condensed,sans-serif;
+    font-size:16px;
+    text-transform:uppercase;
+    margin-top:5px;
+	text-decoration:none;
+	display:block;	
+}
+
+
+.social-icons
+{
+   
+  text-align:center;
+}
+
+#td{
+	margin-bottom:100px;
+}
+
+/*important*/
+.site-footer .social-icons a
+{
+  width:40px;
+  height:40px;
+}
+
+
+.social-icons a:hover{
+	transform:scale(1.4); 
+	-webkit-transform:scale(1.4);
+
+}
+
+.social-icons li
+{
+  display:inline-block;
+
+}
+
+.social-icons a{
+  margin-right:8px;
+  border-radius:100%;
+  -webkit-transition:all .1s linear;
+  -o-transition:all .1s linear;
+  transition:all .1s linear;
+}
+
+
+/*footer - copyright statment*/
+.copyright-text
+{
+  text-align:center;
+  margin-top:200;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
