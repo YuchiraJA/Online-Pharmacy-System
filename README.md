@@ -22,4 +22,4 @@
 
 ####### Member 4 - Himesh 
 
- <p align="center"><a href="https://laravel.com" target="_blank"><img src="http://www.avajava.com/images/avajavalogo.jpg" width="400"></a></p>
+ <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" width="400"></a></p>
